@@ -11,7 +11,8 @@ const App = () => {
       style={{ 
         backgroundImage: "url(/background.png)",
         backgroundRepeat: 'no-repeat',
-        backgroundPosition: 'right bottom'
+        backgroundPosition: 'right bottom',
+        
       }}>
       <div className="nav">
         <p className="brand">My Bakery</p>
